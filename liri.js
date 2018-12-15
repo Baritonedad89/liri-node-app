@@ -1,9 +1,9 @@
 const fs = require('fs');
 const dotenv = require("dotenv").config();
-let action = process.argv[2];
+// let action = process.argv[2];
 let value = "";
-const key = require("./keys");
-const https = require('https');
+// const key = require("./keys");
+// const https = require('https');
 const moment = require('moment');
 const inquirer = require('inquirer');
 const keys = require('./keys');
@@ -123,17 +123,28 @@ let getSong = (value) => {
             let a = response.tracks.items;
             // console.log(a)
             a.forEach(songs => {
-                const artist = `Artist(s): ${songs.artists[0].name}`;
-                const songName = `Song name: ${songs.name}`;
-                const preview = `Preview: ${songs.preview_url}`;
-                const albumName = `Album name: ${songs.album.name}`;
-                const line = '----------------------------------';
-                console.log(artist)
-                console.log(songName);
-                console.log(preview)
-                console.log(albumName)
-                console.log(line)
+                let songInfo =
+                    `
+                SONGS:
+                Artist(s): ${songs.artists[0].name}
+                Song name: ${songs.name}
+                Preview: ${songs.preview_url}
+                Album name: ${songs.album.name}
+                ----------------------------------
+                `;
+                fs.appendFile('log.txt', songInfo, (err) => {
+                    if (err) throw err;
+                })
+
+                console.log(`Artist(s): ${songs.artists[0].name}`);
+                console.log(`Song name: ${songs.name}`);
+                console.log(`Preview: ${songs.preview_url}`);
+                console.log(`Album name: ${songs.album.name}`);
+                console.log('----------------------------------');
+
             });
+
+
 
         })
         .catch(function (err) {
@@ -152,6 +163,21 @@ let getMovie = (value) => {
             if (response.data.Title === undefined) {
                 console.log('This movie may not exist, try again.')
             } else {
+
+                let movieInfo =
+                    `
+                MOVIES:
+                * Movie title: "${response.data.Title}"
+                * Year: "${response.data.Year}"
+                * IMDB rating: "${response.data.Ratings[0].Value}"
+                * Rotten Tomatoes rating: "${response.data.Ratings[1].Value}"
+                * Country(s) produced: "${response.data.Country}"
+                * Language(s): "${response.data.Language}"
+                * Actors: "${response.data.Actors}"
+                `;
+                fs.appendFile('log.txt', movieInfo, (err) => {
+                    if (err) throw err;
+                })
 
                 console.log(`* Movie title: "${response.data.Title}",`);
                 console.log(`* Year: "${response.data.Year}",`);
@@ -175,21 +201,34 @@ let concertThis = (value) => {
     axios.get(`https://rest.bandsintown.com/artists/${value}/events?app_id=codingbootcamp`).then(
         function (response) {
             const x = response.data;
-            if(x[0]== null) {
+            if (x[0] == null) {
                 console.log('No upcoming events, try another search')
             } else {
-            x.forEach(function (item) {
-                let y = item;
-                let momentTime = moment(y.datetime).format('ddd, MM/DD/YYYY, HH:mm')
-                console.log(`Artist: ${y.lineup[0]}`);
-                console.log(`Venue: ${y.venue.name}`);
-                console.log(`City/Country: ${y.venue.city}, ${y.venue.country}`);
-                console.log(`Date/time: ${momentTime}`);
-                console.log('----------------------------------')
-            })
-        }
+                x.forEach(function (item) {
+                    let y = item;
+                    let momentTime = moment(y.datetime).format('ddd, MM/DD/YYYY, HH:mm')
+                    console.log(`Artist: ${y.lineup[0]}`);
+                    console.log(`Venue: ${y.venue.name}`);
+                    console.log(`City/Country: ${y.venue.city}, ${y.venue.country}`);
+                    console.log(`Date/time: ${momentTime}`);
+                    console.log('----------------------------------')
+                    let concertInfo =
+                        `
+                CONCERT INFO:
+                Artist: ${y.lineup[0]}
+                Venue: ${y.venue.name}
+                City/Country: ${y.venue.city}, ${y.venue.country}
+                Date/time: ${momentTime}
+                ----------------------------------
+                `;
+                    fs.appendFile('log.txt', concertInfo, (err) => {
+                        if (err) throw err;
+                        
+                    })
+                })
+            }
         }).catch(function (err) {
-            if (err.response ==='x.forEach is not a function') {
+            if (err.response === 'x.forEach is not a function') {
                 console.log(err.response.status);
             } else {
                 console.log('An error occurred, please try again')
