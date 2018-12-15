@@ -1,0 +1,544 @@
+cl
+                SONGS:
+                Artist(s): Bruno Mars
+                Song name: 24K Magic
+                Preview: https://p.scdn.co/mp3-preview/3213a35ec32d4c747e794072a5ef7b464b4fcb69?cid=b427d2fa363b40b9bce3197c01ee88ad
+                Album name: 24K Magic
+                ----------------------------------
+                
+                SONGS:
+                Artist(s): Bruno Mars
+                Song name: Versace On The Floor
+                Preview: https://p.scdn.co/mp3-preview/734b5d7f9b5552bb2a886b042be24c9ca6be9c9f?cid=b427d2fa363b40b9bce3197c01ee88ad
+                Album name: 24K Magic
+                ----------------------------------
+                
+                SONGS:
+                Artist(s): Bruno Mars
+                Song name: Chunky
+                Preview: https://p.scdn.co/mp3-preview/9a864a83d193e01d44a1223465c75592b9060eee?cid=b427d2fa363b40b9bce3197c01ee88ad
+                Album name: 24K Magic
+                ----------------------------------
+                
+                SONGS:
+                Artist(s): Bruno Mars
+                Song name: That's What I Like
+                Preview: https://p.scdn.co/mp3-preview/f09116ce18bd77f543e68a925e5a96509e79ac6a?cid=b427d2fa363b40b9bce3197c01ee88ad
+                Album name: 24K Magic
+                ----------------------------------
+                
+                SONGS:
+                Artist(s): Bruno Mars
+                Song name: Perm
+                Preview: https://p.scdn.co/mp3-preview/dad5a474a976c21f273e1d050d96e4b891f025f4?cid=b427d2fa363b40b9bce3197c01ee88ad
+                Album name: 24K Magic
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Times Union Center
+                City/Country: Albany, United States
+                Date/time: Mon, 03/18/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: TD Garden
+                City/Country: Boston, United States
+                Date/time: Wed, 03/20/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: KeyBank Center
+                City/Country: Buffalo, United States
+                Date/time: Fri, 03/22/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Capitol One Arena
+                City/Country: Washington, United States
+                Date/time: Mon, 03/25/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Wells Fargo Center
+                City/Country: Philadelphia, United States
+                Date/time: Tue, 03/26/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Quicken Loans Arena
+                City/Country: Cleveland, United States
+                Date/time: Thu, 03/28/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Mohegan Sun Arena
+                City/Country: Uncasville, United States
+                Date/time: Sat, 03/30/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Bell Centre
+                City/Country: Montréal, Canada
+                Date/time: Mon, 04/01/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Scotiabank Arena
+                City/Country: Toronto, Canada
+                Date/time: Wed, 04/03/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Little Caesars Arena
+                City/Country: Detroit, United States
+                Date/time: Fri, 04/05/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: United Center
+                City/Country: Chicago, United States
+                Date/time: Sun, 04/07/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: United Center
+                City/Country: Chicago, United States
+                Date/time: Mon, 04/08/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: The Schottenstein Center
+                City/Country: Columbus, United States
+                Date/time: Wed, 04/10/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Bankers Life Fieldhouse
+                City/Country: Indianapolis, United States
+                Date/time: Fri, 04/12/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Enterprise Center
+                City/Country: St. Louis, United States
+                Date/time: Sat, 04/13/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Fiserv Forum
+                City/Country: Milwaukee, United States
+                Date/time: Mon, 04/15/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Xcel Energy Center
+                City/Country: St Paul, United States
+                Date/time: Wed, 04/17/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: CHI Health Center
+                City/Country: Omaha, United States
+                Date/time: Thu, 04/18/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Pepsi Center
+                City/Country: Denver, United States
+                Date/time: Sat, 04/20/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Vivint Smart Home Arena
+                City/Country: Salt Lake City, United States
+                Date/time: Mon, 04/22/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Rogers Place
+                City/Country: Edmonton, Canada
+                Date/time: Thu, 04/25/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Rogers Arena
+                City/Country: Vancouver, Canada
+                Date/time: Sat, 04/27/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Moda Center
+                City/Country: Portland, United States
+                Date/time: Tue, 04/30/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: SAP Center
+                City/Country: San Jose, United States
+                Date/time: Thu, 05/02/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Golden 1 Center
+                City/Country: Sacramento, United States
+                Date/time: Fri, 05/03/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: STAPLES Center
+                City/Country: Los Angeles, United States
+                Date/time: Mon, 05/06/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Staples Center
+                City/Country: Los Angeles, United States
+                Date/time: Tue, 05/07/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: The Forum
+                City/Country: Los Angeles, United States
+                Date/time: Fri, 05/10/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Talking Stick Resort Arena
+                City/Country: Phoenix, United States
+                Date/time: Tue, 05/14/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: AT&T Center
+                City/Country: San Antonio, United States
+                Date/time: Fri, 05/17/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Toyota Center
+                City/Country: Houston, United States
+                Date/time: Sun, 05/19/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: American Airlines Center
+                City/Country: Dallas, United States
+                Date/time: Tue, 05/21/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Chesapeake Energy Arena
+                City/Country: Oklahoma City, United States
+                Date/time: Thu, 05/23/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Smoothie King Center
+                City/Country: New Orleans, United States
+                Date/time: Sat, 05/25/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Amalie Arena
+                City/Country: Tampa, United States
+                Date/time: Tue, 05/28/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Amway Center
+                City/Country: Orlando, United States
+                Date/time: Wed, 05/29/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: American Airlines Arena
+                City/Country: Miami, United States
+                Date/time: Fri, 05/31/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: American Airlines Arena
+                City/Country: Miami, United States
+                Date/time: Sat, 06/01/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: PNC Arena
+                City/Country: Raleigh, United States
+                Date/time: Tue, 06/04/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Bridgestone Arena
+                City/Country: Nashville, United States
+                Date/time: Fri, 06/07/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: State Farm Arena
+                City/Country: Atlanta, United States
+                Date/time: Sat, 06/08/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Spectrum Center
+                City/Country: Charlotte, United States
+                Date/time: Mon, 06/10/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: PPG Paints Arena
+                City/Country: Pittsburgh, United States
+                Date/time: Wed, 06/12/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Barclays Center
+                City/Country: Brooklyn, United States
+                Date/time: Fri, 06/14/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Barclays Center
+                City/Country: Brooklyn, United States
+                Date/time: Sat, 06/15/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Madison Square Garden
+                City/Country: New York, United States
+                Date/time: Tue, 06/18/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Madison Square Garden
+                City/Country: New York, United States
+                Date/time: Wed, 06/19/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Capital One Arena
+                City/Country: Washington, United States
+                Date/time: Fri, 06/21/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: TD Garden
+                City/Country: Boston, United States
+                Date/time: Sat, 06/22/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Wells Fargo Center
+                City/Country: Philadelphia, United States
+                Date/time: Mon, 06/24/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Scotiabank Arena
+                City/Country: Toronto, Canada
+                Date/time: Wed, 06/26/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: The O2 Arena
+                City/Country: London, United Kingdom
+                Date/time: Sat, 08/17/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Ziggo Dome
+                City/Country: Amsterdam, Netherlands
+                Date/time: Fri, 08/23/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: AccorHotels Arena
+                City/Country: Paris, France
+                Date/time: Tue, 08/27/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Sportpaleis Antwerpen
+                City/Country: Antwerpen, Belgium
+                Date/time: Fri, 08/30/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Lanxess Arena
+                City/Country: Köln, Germany
+                Date/time: Sun, 09/01/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Stadthalle
+                City/Country: Vienna, Austria
+                Date/time: Tue, 09/03/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Barclaycard Arena
+                City/Country: Hamburg, Germany
+                Date/time: Thu, 09/05/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: O2 arena
+                City/Country: Praha 9, Czech Republic
+                Date/time: Sun, 09/08/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Tauron Arena
+                City/Country: Kraków, Poland
+                Date/time: Mon, 09/09/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Arena Birmingham
+                City/Country: Birmingham, United Kingdom
+                Date/time: Sat, 09/14/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: The SSE Hydro
+                City/Country: Glasgow, United Kingdom
+                Date/time: Tue, 09/17/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: 3Arena
+                City/Country: Dublin 1, Ireland
+                Date/time: Sun, 09/22/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Royal Arena
+                City/Country: Copenhagen, Denmark
+                Date/time: Tue, 10/01/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Telenor Arena
+                City/Country: Oslo, Norway
+                Date/time: Thu, 10/03/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Hartwall Arena
+                City/Country: Hki, Finland
+                Date/time: Sat, 10/05/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Ericsson Globe
+                City/Country: Stockholm, Sweden
+                Date/time: Mon, 10/07/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Mercedes-Benz-Arena
+                City/Country: Berlin, Germany
+                Date/time: Thu, 10/10/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: Hallenstadion
+                City/Country: Zürich, Switzerland
+                Date/time: Sun, 10/13/2019, 19:00
+                ----------------------------------
+                
+                CONCERT INFO:
+                Artist: Ariana Grande
+                Venue: FlyDSA Arena
+                City/Country: Sheffield, United Kingdom
+                Date/time: Thu, 09/19/2019, 19:00
+                ----------------------------------
+                
+                MOVIES:
+                * Movie title: "Interstellar"
+                * Year: "2014"
+                * IMDB rating: "8.6/10"
+                * Rotten Tomatoes rating: "71%"
+                * Country(s) produced: "USA, UK"
+                * Language(s): "English"
+                * Actors: "Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow"
+                
+                MOVIES:
+                * Movie title: "Sorry to Bother You"
+                * Year: "2018"
+                * IMDB rating: "7.1/10"
+                * Rotten Tomatoes rating: "92%"
+                * Country(s) produced: "USA"
+                * Language(s): "English"
+                * Actors: "Lakeith Stanfield, Tessa Thompson, Jermaine Fowler, Omari Hardwick"
+                
