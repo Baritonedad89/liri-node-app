@@ -3,7 +3,9 @@
 *LIRI* is a Language Interpretation and Recognition Interface. *LIRI* takes in parameters via the commande line node app and returns a response using the the following API's: [Spotify][2], [Bandsintown][3] and [OMDB][4]. 
 
 [Link to video demonstration][1]
+
 Results will populate onto console and onto the log.txt file 
+
 This [link][5] will demonstrate how the log text function works 
 
 ##
