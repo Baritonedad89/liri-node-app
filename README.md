@@ -11,7 +11,7 @@ This [link][5] will demonstrate how the log text function works
 ##
 **NOTE!**
 
-If you want to clone this app and run it yourself, you will need to supply your own `.env` file that holds your Spotify API keys. 
+If you want to clone this app and run it yourself, you will need to supply your own spotify credentials and place them into the `.env` file. You can create your own Spotify keys by following this [link][6] 
 
 [1]:https://drive.google.com/file/d/1HqLH9Px14kQ86PpBNjVdumowf7D8w4BD/view?usp=sharing
 
@@ -19,3 +19,4 @@ If you want to clone this app and run it yourself, you will need to supply your 
 [3]:https://manager.bandsintown.com/support/bandsintown-api
 [4]:http://www.omdbapi.com/
 [5]: https://drive.google.com/file/d/1TQM-HOvdqZpMy5Nr6_7kZNusLQ8lypiJ/view
+[6]: https://developer.spotify.com/dashboard/login
